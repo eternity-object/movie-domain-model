@@ -1,4 +1,4 @@
-package org.eternity.reservation;
+package org.eternity.movie;
 
 import java.time.DayOfWeek;
 import java.time.LocalTime;

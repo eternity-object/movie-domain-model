@@ -1,4 +1,4 @@
-package org.eternity.reservation;
+package org.eternity.movie;
 
 public class Customer {
     private String name;

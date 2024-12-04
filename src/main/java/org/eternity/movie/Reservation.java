@@ -1,4 +1,4 @@
-package org.eternity.reservation;
+package org.eternity.movie;
 
 import org.eternity.generic.Money;
 
